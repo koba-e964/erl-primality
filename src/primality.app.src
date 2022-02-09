@@ -1,0 +1,15 @@
+{application, primality,
+ [{description, "Primality testing"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["koba-e964"]},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
